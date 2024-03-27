@@ -17,7 +17,7 @@ export const siteConfig = {
     },
     {
       title: "Repo",
-      href: "www.ellinkdelrepo",
+      href: "https://github.com/GabyLP5/bdp.git",
     },
     {
       title: "@GabyLP5",
